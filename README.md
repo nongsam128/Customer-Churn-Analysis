@@ -25,4 +25,4 @@ Explore the visualizations and insights on the dashboard, following the steps de
 The Power BI project, as explained in the tutorial, utilizes Data Analysis Expressions (DAX) formulas to create measures that calculate specific metrics. Refer to the tutorial content or comments within the Power BI file for details on the DAX formulas used.
 
 # Acknowledgment
-This project is inspired by the tutorial created by [Channel Name](https://www.youtube.com/@KSRDatavizon). Special thanks for providing valuable insights and guidance in creating this Customer Churn Analysis Power BI Project.
+This project is inspired by the tutorial created by [KSRDatavizon](https://www.youtube.com/@KSRDatavizon). Special thanks for providing valuable insights and guidance in creating this Customer Churn Analysis Power BI Project.
