@@ -1,4 +1,5 @@
 # Customer-Churn-Analysis
+
 # Introduction
 Welcome to the Customer Churn Analysis Power BI Project, inspired by the tutorial on the YouTube channel Channel Name. This project is designed to assist businesses in understanding customer behavior and predicting potential churn. Customer churn is a critical aspect that businesses aim to mitigate to maintain a healthy customer base.
 
